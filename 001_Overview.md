@@ -13,16 +13,30 @@ It is also inspired by the game Earthdawn, most recently printed in its fourth e
 
 ## **It's a Magical World**
 
+It is said that history is like a tapestry being woven by the fates. A Pattern. Each life is a thread in the age lace of the world. Here is a part of this story: 
 
+Two-hundred years ago, the world was one of magical advancement. The problems of privation had been conquered. It was connected by sky ships. Though no one would call it "peaceful," magic filled the world, allowing people to grow and prosper.
 
+Then, the Horrors came. They wiggled out of hell realms during a brief confluence where this world and the far planes came into contact.
 
+The dwarves warned the world, and gave them the means to survive: *caerns*. Magical vaults, below the surface of the earth. 
+
+Some escaped. Many died. 
+
+Today, the Horrors have departed - the brief period where there was enough mana to survive has passed. So they say, anyway.
+
+You and your companions have struggled free from your caern and found the world broken apart.
+
+Now, stride forward into this new earth, into this new dawn, and make a legend of yourself!
 
 
 ### **Legend**
 
-You are an adept. A student of magic. Your arts suffuse all you do. Your practice, be it through the expressions of your body, your song, your skysailing, or your command of aether, is magical. As an adept, you are important to the Pattern.
+You are an adept. A student of the art magic. Your practice, be it through the expressions of your body, your song, your skysailing, or your command of aether, is magical. As an adept, you are important to the Pattern.
 
-The more that you accomplish in the world
+The more that you accomplish in the world, the more threads of the Pattern are tied to you. As your Legend grows, the more threads warp and weave as you grow near. 
+
+
 
 At each level you gain an additional template (up to a max of 4) and the accompanying abilities, in addition to the base character listed above. You can also test a single stat of your choosing to see if it improves. To do so, roll 3d6. If it is equal-or-higher than the current stat, it improves by 1. 
 
@@ -42,34 +56,71 @@ Alternatively, anytime you gain a new level at 5th or higher, you've the option 
 
 ## **Let's Go Exploring**
 
-Almost everything is based on rolling a d20 against a target number. If you roll equal to or under the target number, you succeed (“meeting is beating”). Roll over it, and you’ve failed. 1 is always success, 20 is always failure. “Roll under” and “Test” will be used throughout the text as a short-hand. 
+As adepts, when you have **time**, **skill**, and **gear**, you can accomplish most anything.[^1]
+- If you have all **three**, you do not need to roll – you just succeed.
+- Generally, if you have **none** or **one** of the **three**, a task is **impossible**.
+- If you only have **two**, the GM will ask you to make a **check**, with time or your gear being at stake if you fail.
 
-Situational bonuses and penalties are usually +/- 2 or 4, applied to the target number.
+When you perform a **check**, the GM calls for you to roll one of your **attribute dice**. Attribute dice has 5 ranks: d4 -> d6 -> d8 -> d10 -> d12.
 
-Contested checks are also resolved in this manner. The player makes their check with an adjustment based on how far the opponent's stat is from 10. 
+If you roll a 4+ on your attribute dice, you succeed.
 
-Examples:
+If you have situational bonuses or penalties, you step your dice up or down one step. Attribute dice can never go lower than d4 nor higher than d12. The target number to roll is always a 4, though.
 
-Shoving: The PC has Str 11, the Hobo Tweaker has Str 16. The PC needs to roll 5 to succeed, since 11 – 6 = 5.
+### **Attributes**
 
-Attacking: The PC has Attack 12, the Heavy Security Guard has Defense 16. The PC needs to roll a 6 or less to succeed, since 12 – 6 = 6. 
+Adepts have six attributes which represent their physical and mental prowess. Each attribute has a **rank** (a descriptive word that allows you to think about their attribute relative to others) and a **attribute dice** (a specific dice type you roll when the GM calls for a check). The average person has a d6 in all of their attributes. (Many starting adepts will be like this!)
 
-
-## **Stats**
-
-Characters have 6 stats, which serve as vague descriptions of their physical and mental prowess. 
+When determining your attribute rank, we've provided some example words, but feel free to choose your own if you prefer it. 
 
 _Strength_: Tested when you attempt feats of Strength: Shoving, climbing, forcing open doors, etc. Effects the number of items you can carry. 
 
+d4 - Weak
+d6 - Svelte
+d8 - Athletic
+d10 - Mighty
+d12 - Titanic
+
 _Dexterity_: Tested when trying to dodge traps, leap over obstacles, or perform delicate operations under pressure. Half of your Dexterity is the number of “Quick Inventory” items you can have. 
+
+d4 - Clumsy
+d6 - Adroit
+d8 - Nimble
+d10 - Graceful
+d12 - Swift
 
 _Constitution_: Tested when trying to resist disease, drowning, radiation, and the like. Your hit points are based on your Constitution and level. 
 
+d4 - Frail
+d6 - Brave
+d8 - Sturdy
+d10 - Robust
+d12 - Unbreakable
+
 _Intelligence_: Tested when asking esoteric questions about the world. Also determines the number of skills you can have. 
+
+d4 - Uneducated
+d6 - Informed
+d8 - Well-Read
+d10 - Learned
+d12 - Expert
 
 _Wisdom_: Tested when attempting to discern lies, spot hidden dangers, and to resist mind altering effects. It also determines your initiative. You’ll test initiative every round of combat to see if you act before or after opponents. 
 
+d4 - Slow
+d6 - Sensible
+d8 - Intuitive
+d10 - Keen
+d12 - Savant
+
 _Charisma_: Test to flatter or beguile. While social interaction is done at the table, potential edge cases are determined via Charisma test. It also affects the number of Hirelings you can manage. 
+
+d4 - Coarse
+d6 - Likable
+d8 - Charming
+d10 - Alluring
+d12 - Bewitching
+
 
 
 ## **Other Numbers**
@@ -128,3 +179,5 @@ You start off with three skills, determined by your Failed Career, your level 1 
 You may have a total of 3+(Int/4) skills. 
 
 Skills cannot be used directly in combat. 
+
+[^1]:  Credit to [Dice Goblin](https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks/)
