@@ -6,170 +6,23 @@ nav_order: 2
 
 # **Overview**
 
-CyberGLoG is based on Arnold K.’s “Goblin Laws of Gaming” homebrew system, also known as the GLOG. 
+GLoGDAWN is based on Arnold K.’s “Goblin Laws of Gaming” homebrew system, also known as the GLoG. Original game rules and content can be found at goblinpunch.blogspot.com.
 
-Original game rules and content can be found at goblinpunch.blogspot.com
-
-The following content is meant to be a cyberpunk flavoring of that core rule set, and as such borrows heavily from it, with a few adjustments here and there. 
+It is also inspired by the game Earthdawn, most recently printed in its fourth edition from FASA Games in 2015. 
 
 
-## **Base Character**
-
-The following describes your character before the application of templates. 
-
-
-<table>
-  <tr>
-   <td>Level
-   </td>
-   <td>HP
-   </td>
-   <td>Attack
-   </td>
-   <td>Save
-   </td>
-   <td>Cred
-   </td>
-  </tr>
-  <tr>
-   <td>1
-   </td>
-   <td>Con - 4
-   </td>
-   <td>11
-   </td>
-   <td>6
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td>2
-   </td>
-   <td>Con - 2
-   </td>
-   <td>12
-   </td>
-   <td>7
-   </td>
-   <td>500
-   </td>
-  </tr>
-  <tr>
-   <td>3
-   </td>
-   <td>Con
-   </td>
-   <td>-
-   </td>
-   <td>8
-   </td>
-   <td>1000
-   </td>
-  </tr>
-  <tr>
-   <td>4
-   </td>
-   <td>Con +2
-   </td>
-   <td>13
-   </td>
-   <td>9
-   </td>
-   <td>1500
-   </td>
-  </tr>
-  <tr>
-   <td>5
-   </td>
-   <td>+1 Assist
-   </td>
-   <td>-
-   </td>
-   <td>10
-   </td>
-   <td>2500
-   </td>
-  </tr>
-  <tr>
-   <td>6
-   </td>
-   <td>+1 Assist
-   </td>
-   <td>14
-   </td>
-   <td>11
-   </td>
-   <td>3500
-   </td>
-  </tr>
-  <tr>
-   <td>7
-   </td>
-   <td>+1 Assist
-   </td>
-   <td>-
-   </td>
-   <td>12
-   </td>
-   <td>4500
-   </td>
-  </tr>
-  <tr>
-   <td>8
-   </td>
-   <td>+1 Assist
-   </td>
-   <td>15
-   </td>
-   <td>13
-   </td>
-   <td>6000
-   </td>
-  </tr>
-  <tr>
-   <td>9
-   </td>
-   <td>+1 Assist
-   </td>
-   <td>-
-   </td>
-   <td>14
-   </td>
-   <td>7500
-   </td>
-  </tr>
-  <tr>
-   <td>10
-   </td>
-   <td>+1 Assist
-   </td>
-   <td>-
-   </td>
-   <td>15
-   </td>
-   <td>9000
-   </td>
-  </tr>
-  <tr>
-   <td>+1
-   </td>
-   <td>+1 Assist
-   </td>
-   <td>-
-   </td>
-   <td>-
-   </td>
-   <td>+2000
-   </td>
-  </tr>
-</table>
+## **It's a Magical World**
 
 
 
-## **Level**
 
-A measure of your character's power. It goes up as you gain XP. 
+
+
+### **Legend**
+
+You are an adept. A student of magic. Your arts suffuse all you do. Your practice, be it through the expressions of your body, your song, your skysailing, or your command of aether, is magical. As an adept, you are important to the Pattern.
+
+The more that you accomplish in the world
 
 At each level you gain an additional template (up to a max of 4) and the accompanying abilities, in addition to the base character listed above. You can also test a single stat of your choosing to see if it improves. To do so, roll 3d6. If it is equal-or-higher than the current stat, it improves by 1. 
 
@@ -187,7 +40,7 @@ Alternatively, anytime you gain a new level at 5th or higher, you've the option 
 
 
 
-## **Base Mechanics**
+## **Let's Go Exploring**
 
 Almost everything is based on rolling a d20 against a target number. If you roll equal to or under the target number, you succeed (“meeting is beating”). Roll over it, and you’ve failed. 1 is always success, 20 is always failure. “Roll under” and “Test” will be used throughout the text as a short-hand. 
 
